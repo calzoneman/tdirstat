@@ -3,6 +3,8 @@ tdirstat
 
 Terminal-based filesystem tree size browser for my own personal use.
 
+**Installation:** `go get -u github.com/calzoneman/tdirstat`
+
 **Usage:** `tdirstat [<directory>]` (`<directory>` defaults to the current working
 directory if not specified).
 
